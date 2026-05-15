@@ -1,0 +1,40 @@
+# Step: 03-newsletter-planning
+
+## Description
+This stage involves structuring the research into a coherent series of episodes.
+
+## Purpose
+- Map research to specific episodes.
+- Ensure logical flow and avoid repetition.
+- Plan visual elements (diagrams/tables) for each episode.
+
+## Pre-stage Checkpoint
+### Version Control
+- N/A.
+
+## Workflow
+
+### Output Format
+- Default Root Directory: `D:/personal-vault/20 Areas/Writing/Newsletters/`
+- All documents stored within default directory in sub-directory named: `<newsletter-name>/`
+- Final Newsletter Plan File: `<newsletter-name>/plan_newsletter.md`
+
+### Process
+1. Create `<newsletter-name>/plan_newsletter.md`.
+2. Define the Episode Layout (Table: Episode #, Title, Research Files used).
+3. Assign all mandatory topics to specific episodes.
+4. Define Episode Details:
+   - Core topics.
+   - Key points.
+   - Visual elements mapping.
+5. Review the "Repetition Avoidance Checklist".
+
+## Post-stage Checkpoint
+### Version Control
+- N/A.
+
+### Human in the Loop (HITL)
+- Present the episode plan to the user for feedback on titles and content distribution.
+
+### Auto pilot
+- Proceed if the layout is complete and covers all mandatory topics.
