@@ -26,7 +26,7 @@ The `newsletter-writer` skill automates the creation of comprehensive, multi-epi
 ### Setup
 Invoke with topic and optional parameters:
 ```text
-/newsletter topic: [topic], style_guide: [DEFAULT_STYLE | RICHARD_FEYNMAN | PYTHON_EXPERT | ACT_EXPLAINER | AUDIT_EXPLAINER], topics_list: [list]
+/newsletter topic: [topic], style_guide: [chosen-style-guide], topics_list: [list]
 ```
 
 ### Execution
