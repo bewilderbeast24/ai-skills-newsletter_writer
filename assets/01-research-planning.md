@@ -30,6 +30,9 @@ This stage involves defining the scope, mandatory topics, and research plan for 
 6. List Research Topics and map them to `<newsletter-name>/Research/XX_[slug].md`. **DO NOT CREATE `<newsletter-name>/Research/` SUBDIRECTORY, YOU ARE ONLY REQUIRED TO MAP THE TOPICS TO A FILE IN RESEARCH SUBDIRECTORY FOR NEXT STEP.**
 
 ## Post-stage Checkpoint
+### Progress Tracking
+- Update `.agents/skills-diary/newsletter-writer/checklist.md` by marking "Phase 1: Research Planning" as completed.
+
 ### Version Control
 - N/A.
 
