@@ -14,7 +14,7 @@ The `newsletter-writer` skill automates the creation of comprehensive, multi-epi
 | :--- | :--- | :--- |
 | **1. Research Planning** | Define scope, mandatory topics, and map research files. | [01-research-planning.md](assets/01-research-planning.md) |
 | **2. Research Execution** | Gather findings and data for each sub-topic. | [02-research-execution.md](assets/02-research-execution.md) |
-| **3. Newsletter Planning** | Map research to episodes and plan visual elements. | [03-newsletter-planning.md](assets/03-newsletter-planning.md) |
+| **3. Newsletter Planning** | Map research to episodes, plan visuals, and create introductory episode. | [03-newsletter-planning.md](assets/03-newsletter-planning.md) |
 | **4. Newsletter Writing** | Draft episodes sequentially using the chosen style guide. | [04-newsletter-writing.md](assets/04-newsletter-writing.md) |
 
 ## Pre-stage Checkpoint
@@ -33,7 +33,7 @@ Invoke with topic and optional parameters:
 Follow the steps in `assets/` sequentially:
 1. **[01-research-planning.md](assets/01-research-planning.md)**: Create `<newsletter-name>/plan_research.md`.
 2. **[02-research-execution.md](assets/02-research-execution.md)**: Populate `<newsletter-name>/Research/`.
-3. **[03-newsletter-planning.md](assets/03-newsletter-planning.md)**: Create `<newsletter-name>/plan_newsletter.md`.
+3. **[03-newsletter-planning.md](assets/03-newsletter-planning.md)**: Create `<newsletter-name>/plan_newsletter.md` and `<newsletter-name>/Episodes/00-introduction-to-newsletter.md`.
 4. **[04-newsletter-writing.md](assets/04-newsletter-writing.md)**: Populate `<newsletter-name>/Episodes/`.
 
 ## Handover & Confirmation
