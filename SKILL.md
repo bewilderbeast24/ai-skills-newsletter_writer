@@ -37,6 +37,21 @@ Follow the steps in `assets/` sequentially:
 4. **[04-newsletter-writing.md](assets/04-newsletter-writing.md)**: Populate `<newsletter-name>/Episodes/` and append index to `00-introduction-to-newsletter.md`.
 
 ## Handover & Confirmation
+- The following directory is made ready (assuming newsletter is generated in default directory `D:/personal-vault/20 Areas/Newsletters/`):
+```text
+<newsletter-name>
+    Episodes/
+        00-introduction-to-newsletter.md
+        <episode-01>
+        <episode-02>
+        ...
+    Research/
+        01-<research-aspect-01>.md
+        02-<research-aspect-02>.md
+        ...
+    plan_research.md
+    plan_newsletter.md
+```
 - All episodes are verified against the plan and style guide.
 - The project directory is presented to the user.
 - Feedback is solicited for future improvements.
