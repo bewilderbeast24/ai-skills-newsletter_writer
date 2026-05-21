@@ -62,4 +62,4 @@ Follow the steps in `assets/` sequentially:
 - Feedback is solicited for future improvements.
 
 ## Additional Instructions
-All temporary scripts generated while execution of skills (scripts which will be deleted after execution) will be written in `.gemini/skills-diary/temp-scripts/<timestamp>/` as directory
+All temporary scripts generated while execution of skills (scripts which will be deleted after execution) will be written in `.agents/skills-diary/temp-scripts/<timestamp>/` as directory
