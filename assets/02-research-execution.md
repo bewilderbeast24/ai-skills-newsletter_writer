@@ -29,6 +29,9 @@ This stage involves gathering detailed information for each planned topic.
    - Source citations.
 
 ## Post-stage Checkpoint
+### Progress Tracking
+- Update `.agents/skills-diary/newsletter-writer/checklist.md` by marking "Phase 2: Research Execution" as completed.
+
 ### Version Control
 - Verify files are created: `dir <newsletter-name>/Research/`.
 
