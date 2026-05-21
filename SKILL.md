@@ -23,6 +23,11 @@ The `newsletter-writer` skill automates the creation of comprehensive, multi-epi
 
 ## Core Operation Flow
 
+### Progress Tracking
+Before starting, ensure a checklist in the format of `references/checklist.md` is initialized in `.agents/skills-diary/newsletter-writer/<newsletter-name>/checklist.md`.
+
+After completing each phase below, you MUST update relevant checklist by marking the corresponding checkbox as completed (`[x]`).
+
 ### Setup
 Invoke with topic and optional parameters:
 ```text
