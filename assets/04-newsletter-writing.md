@@ -31,6 +31,9 @@ This stage involves drafting the actual newsletter episodes following the select
 6. Once all episodes are drafted, return to `00-introduction-to-newsletter.md` and append an 'Episode Index' section. This section must contain a list of links to every created episode, using the episode's title as the display text (e.g., `[Introduction to AI](01-intro-to-ai.md)`).
 
 ## Post-stage Checkpoint
+### Progress Tracking
+- Update `.agents/skills-diary/newsletter-writer/checklist.md` by marking "Phase 4: Newsletter Writing" as completed.
+
 ### Version Control
 - Verify files: `dir <newsletter-name>/Episodes/`.
 - Verify `00-introduction-to-newsletter.md` if all newsletters are indexed and linked before handover.
