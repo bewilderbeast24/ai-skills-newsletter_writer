@@ -28,10 +28,12 @@ This stage involves drafting the actual newsletter episodes following the select
    - Visuals: Include planned Tables/Mermaid.
    - Structure: Overview, Content, Key Takeaways, Navigation links.
 5. Cross-reference previous episodes to ensure continuity.
+6. Once all episodes are drafted, return to `00-introduction-to-newsletter.md` and append an 'Episode Index' section. This section must contain a list of links to every created episode, using the episode's title as the display text (e.g., `[Introduction to AI](01-intro-to-ai.md)`).
 
 ## Post-stage Checkpoint
 ### Version Control
 - Verify files: `dir <newsletter-name>/Episodes/`.
+- Verify `00-introduction-to-newsletter.md` if all newsletters are indexed and linked before handover.
 
 ### Human in the Loop (HITL)
 - Present the final episodes to the user for review and approval.

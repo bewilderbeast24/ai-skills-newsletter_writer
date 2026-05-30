@@ -28,6 +28,8 @@ This stage involves structuring the research into a coherent series of episodes.
    - Key points.
    - Visual elements mapping.
 5. Review the "Repetition Avoidance Checklist".
+6. Create the `D:/personal-vault/20 Areas/Writing/Newsletters/<newsletter-name>/Episodes/` directory.
+7. Immediately after planning, create the file `D:/personal-vault/20 Areas/Writing/Newsletters/<newsletter-name>/Episodes/00-introduction-to-newsletter.md`. This file must document the newsletter's *topic*, *tone*, *audience*, *background*, and *specific aims* as decided during the planning phase.
 
 ## Post-stage Checkpoint
 ### Version Control
