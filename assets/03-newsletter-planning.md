@@ -32,6 +32,9 @@ This stage involves structuring the research into a coherent series of episodes.
 7. Immediately after planning, create the file `D:/personal-vault/20 Areas/Writing/Newsletters/<newsletter-name>/Episodes/00-introduction-to-newsletter.md`. This file must document the newsletter's *topic*, *tone*, *audience*, *background*, and *specific aims* as decided during the planning phase.
 
 ## Post-stage Checkpoint
+### Progress Tracking
+- Update `.agents/skills-diary/newsletter-writer/checklist.md` by marking "Phase 3: Newsletter Planning" as completed.
+
 ### Version Control
 - N/A.
 
